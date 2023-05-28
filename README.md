@@ -1,8 +1,8 @@
 <h1 align="center">
 Hi there 👋
 </h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>
+<div align="center">
+  <img src="https://t4.ftcdn.net/jpg/03/02/18/39/360_F_302183945_8NR7mPrH5Indgp0GGyHTUo6T1dmroxYn.jpg" width="600" height="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/madiha-umair-38106423/">
@@ -15,20 +15,15 @@ Hi there 👋
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-Madiha-umair&style=flat-square&color=blue" alt=""/>
 </div>
-<div align="center">
-  <img src="https://t4.ftcdn.net/jpg/03/02/18/39/360_F_302183945_8NR7mPrH5Indgp0GGyHTUo6T1dmroxYn.jpg" width="600" height="300"/>
-</div>
+
 ---
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
-- 🔭 I’m currently working on ... I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 I’m currently learning ... Exploring Technical Content Writing.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ... In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🔭 I’m currently working on a Full stack application name"Playdate App".
+- 💬 Ask me about ... Web fundamentals with HTML/CSS/Javascript & database like MySQL
+- ⚡ Fun fact: ... In my free time, I do baking.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madiha-umair-38106423/)
 
 ---
