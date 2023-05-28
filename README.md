@@ -3,7 +3,7 @@
 Hi there 👋
 </h1>
 <div align="center">
-  <img src="https://t4.ftcdn.net/jpg/03/02/18/39/360_F_302183945_8NR7mPrH5Indgp0GGyHTUo6T1dmroxYn.jpg" width="600" height="300"/>
+  <img src="https://thumbs.dreamstime.com/b/smiling-girl-sitting-laptop-learning-coding-cute-web-design-vector-illustration-isolated-white-background-bunner-136584573.jpg" width="600" height="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/madiha-umair-38106423/">
