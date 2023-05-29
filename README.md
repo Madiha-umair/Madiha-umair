@@ -31,10 +31,13 @@ Hi there 👋
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
-- 🔭 I’m currently working on a Full stack application name"Playdate App".
-- 💬 Ask me about ... Web fundamentals with HTML/CSS/Javascript & database like MySQL
-- ⚡ Fun fact: ... In my free time, I do baking.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madiha-umair-38106423/)
+- 🔭 I’m currently working on a Full stack application name "Playdate App".
+- 💬 Ask me about ... Web fundamentals with HTML/CSS/Javascript & MySQL
+- ⚡ Fun fact: ... In my free time, I love travelling, playing badminton & do baking.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madiha-umair-38106423/) 
+    <a href="mailto:madiha.altaf@yahoo.com">
+      <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Yahoo!&logoColor=white" alt="Resume Badge"/>
+    </a>
 
 ---
 
