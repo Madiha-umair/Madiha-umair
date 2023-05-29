@@ -18,6 +18,9 @@ Hi there 👋
   <a href="https://portfolio-madiha-umair.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=&logoColor=white" alt="Resume Badge"/>
   </a>
+  <a href="mailto:madiha.altaf@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Yahoo!&logoColor=white" alt="Resume Badge"/>
+  </a>
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-Madiha-umair&style=flat-square&color=blue" alt=""/>
